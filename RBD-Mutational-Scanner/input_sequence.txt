@@ -1,0 +1,2 @@
+AGAGTGCAGCCTACAGAGTCCATCGTGCGGTTCCCCAACATCACCAATCTGTGCCCTTTC
+(Buraya RBD geninin tam DNA dizisini yapıştır / Paste the full RBD DNA sequence here)
